@@ -14,6 +14,10 @@ Sou estudante de Redes de Computadores com foco em Computação em Nuvem e Ciber
 
 Conecte-se comigo!
 
+<p align="center">
+ <a href=""><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>  
+
 <br><br>
 "Não é sobre o que eu sou por dentro, e sim o que eu faço que me define🦇"
 
