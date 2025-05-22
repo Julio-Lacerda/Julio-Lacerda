@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" alt="Network Flow Animation" width="400" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=29&duration=2000&pause=2000&color=000000&background=14131400&vCenter=true&width=435&lines=Cybersecurity++%7C+Cloud+Engineer" alt="Typing SVG" />
 </p>
 
