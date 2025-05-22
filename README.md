@@ -28,6 +28,11 @@ Conecte-se comigo!
  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
-
-  
 </p> 
+
+## Certificações 
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat-square&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat-square&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black) | AWS Academy Cloud Foundations |
+| ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat-square&logoColor=white&labelColor=%23B22222&color=black) | SENAI Azure Fundamentals 900 |
