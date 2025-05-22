@@ -19,7 +19,7 @@ Conecte-se comigo!
 
 -----
 
-##TECH STACK 
+## TECH STACK 
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=debian,grafana,git,gitlab,gmail,cpp,linux,linkedin,nginx,twitter,windows,powershell,notion,ubuntu,discord">
@@ -30,9 +30,31 @@ Conecte-se comigo!
  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
 </p> 
 
-## Certificações 
+## Certificações 🥇
 | Certificação | Nome |
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat-square&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat-square&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 | ![SENAI AZ900](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_900-t?style=flat-square&logoColor=white&labelColor=%23B22222&color=black) | SENAI Azure Fundamentals 900 |
+
+---
+
+## Conquistas 🏆
+
+- Projeto Zabbix
+- Projeto na Azure 
+- Projeto na AWS
+- Casa IOT
+- Curso Tecnico de Redes
+
+## Projetos
+
+- Casa Inteligente voltada para PCDs
+- Monitoramento On-premises com o uso de Zabbix & Grafana
+- Infraestrutura em nuvem utilizado AWS e Azure
+- Cabeamento estruturado baseado em empresas reais
+- Infraestrutura de Redes no Packet Tracer
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Julio-Lacerda&theme=blue-navy&hide_border=true&short_numbers=true&mode=weekly&background=00000000">
+</p>  
