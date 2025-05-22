@@ -62,3 +62,13 @@ Conecte-se comigo!
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Julio-Lacerda&theme=blue-navy&hide_border=true&short_numbers=true&mode=weekly&background=00000000">
 </p>  
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br>
+  <br>
+  </div>
+   <img src="https://komarev.com/ghpvc/?username=your-github-Julio-Lacerda">
+  </div>
+</h4>
+ 
