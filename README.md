@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0001FFFF&text=Júlio%20Lacerda%20✛&section=footer&reversal=false&textBg=false&fontAlign=50&fontSize=55&fontColor=000000FF&animation=blink&descAlignY=45&descAlign=40">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=4169E1&text=Júlio%20Lacerda%20✛&fontColor=ffffff&animation=twinkling">
 </h1>
 
 <p align="center">
