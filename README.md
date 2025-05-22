@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=4169E1&text=Júlio%20Lacerda%20✛&fontColor=ffffff&animation=twinkling">
+  <img src="https://github.com/Julio-Lacerda/Julio-Lacerda/blob/main/ChatGPT%20Image%2022%20de%20mai.%20de%202025,%2016_24_59.png?raw=true">
 </h1>
 
 <p align="center">
